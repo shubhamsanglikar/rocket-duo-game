@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id">47191720133</string>
+    <string name="package_name">com.shubhamsanglikar.rocketduo</string>
+    <string name="achievement_beginner">CgkIxYHi5q8BEAIQAg</string>
+    <string name="achievement_professional">CgkIxYHi5q8BEAIQBQ</string>
+    <string name="achievement_dedication">CgkIxYHi5q8BEAIQAw</string>
+    <string name="achievement_addicted">CgkIxYHi5q8BEAIQBA</string>
+    <string name="achievement_unbeatable">CgkIxYHi5q8BEAIQBg</string>
+    <string name="achievement_unlock_3_levels_in_a_go">CgkIxYHi5q8BEAIQBw</string>
+    <string name="achievement_complete_level_in_single_attempt">CgkIxYHi5q8BEAIQCA</string>
+    <string name="achievement_trained">CgkIxYHi5q8BEAIQCQ</string>
+    <string name="achievement_skilled">CgkIxYHi5q8BEAIQCg</string>
+    <string name="leaderboard_total_score">CgkIxYHi5q8BEAIQAQ</string>
+</resources>

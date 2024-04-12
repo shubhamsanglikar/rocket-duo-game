@@ -1,0 +1,56 @@
+
+pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blueline
+  rotate: false
+  xy: 304, 559
+  size: 4, 97
+  orig: 4, 97
+  offset: 0, 0
+  index: -1
+btnPlay
+  rotate: false
+  xy: 2, 614
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btnReload
+  rotate: false
+  xy: 2, 312
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+longrain
+  rotate: false
+  xy: 2, 2
+  size: 5, 50
+  orig: 5, 50
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 562, 882
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: false
+  xy: 304, 658
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+rockethit
+  rotate: false
+  xy: 2, 54
+  size: 256, 256
+  split: 0, 0, 0, 0
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
